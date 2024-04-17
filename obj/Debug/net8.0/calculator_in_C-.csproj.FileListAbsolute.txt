@@ -1,0 +1,15 @@
+C:\Users\grafa\Documents\GitHub\calculator_in_C-\bin\Debug\net8.0\calculator_in_C-.exe
+C:\Users\grafa\Documents\GitHub\calculator_in_C-\bin\Debug\net8.0\calculator_in_C-.deps.json
+C:\Users\grafa\Documents\GitHub\calculator_in_C-\bin\Debug\net8.0\calculator_in_C-.runtimeconfig.json
+C:\Users\grafa\Documents\GitHub\calculator_in_C-\bin\Debug\net8.0\calculator_in_C-.dll
+C:\Users\grafa\Documents\GitHub\calculator_in_C-\bin\Debug\net8.0\calculator_in_C-.pdb
+C:\Users\grafa\Documents\GitHub\calculator_in_C-\obj\Debug\net8.0\calculator_in_C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grafa\Documents\GitHub\calculator_in_C-\obj\Debug\net8.0\calculator_in_C-.AssemblyInfoInputs.cache
+C:\Users\grafa\Documents\GitHub\calculator_in_C-\obj\Debug\net8.0\calculator_in_C-.AssemblyInfo.cs
+C:\Users\grafa\Documents\GitHub\calculator_in_C-\obj\Debug\net8.0\calculator_in_C-.csproj.CoreCompileInputs.cache
+C:\Users\grafa\Documents\GitHub\calculator_in_C-\obj\Debug\net8.0\calculator_in_C-.sourcelink.json
+C:\Users\grafa\Documents\GitHub\calculator_in_C-\obj\Debug\net8.0\calculator_in_C-.dll
+C:\Users\grafa\Documents\GitHub\calculator_in_C-\obj\Debug\net8.0\refint\calculator_in_C-.dll
+C:\Users\grafa\Documents\GitHub\calculator_in_C-\obj\Debug\net8.0\calculator_in_C-.pdb
+C:\Users\grafa\Documents\GitHub\calculator_in_C-\obj\Debug\net8.0\calculator_in_C-.genruntimeconfig.cache
+C:\Users\grafa\Documents\GitHub\calculator_in_C-\obj\Debug\net8.0\ref\calculator_in_C-.dll
